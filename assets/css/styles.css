@@ -1,0 +1,54 @@
+.purple-icon{
+    background: #d8d4f1;
+    padding: 10px;
+    border-radius: 20px;
+    color: #422fbd;
+}
+
+.custom-shadow{
+    -webkit-box-shadow: 7px -4px 14px -10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 7px -4px 14px -10px rgba(0,0,0,0.75);
+    box-shadow: 7px -4px 14px -10px rgba(0,0,0,0.75);
+}
+
+.info-description{
+    padding: 5px;
+    color: white;
+    border-radius: 6px;
+}
+
+.info-description-color-1{
+    background: #422fbd
+}
+
+.info-description-color-2{
+    background: #ff893a
+}
+
+.info-description-color-3{
+    background: #585665
+}
+
+.custom-circle{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+}
+
+.custom-label{
+    padding: 6px;
+    border-radius: 6px;
+    font-size: 10px;
+}
+
+.custom-label-red{
+    background: #fdece7;
+    color: #f4501d
+}
+
+.custom-label-purple{
+    color: #422fbd;
+    background: #d8d4f1
+}
